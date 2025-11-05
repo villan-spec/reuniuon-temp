@@ -1,0 +1,7 @@
+{
+  "name": "School Reunion Bash",
+  "description": "An interactive and animated invitation for a school reunion, featuring nostalgic classroom elements, Tamil text-to-speech greetings, and personalized voice messages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
